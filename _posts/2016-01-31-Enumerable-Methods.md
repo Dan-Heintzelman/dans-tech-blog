@@ -3,6 +3,8 @@ layout: post
 title:  "Enumerable Methods and How They Act!"
 date:   2016-01-31
 categories: ruby enumerables
+excerpt: "An enumerable is a module with a collection of methods that get *Mixed
+in* with other classes."
 ---
 
 ## Method Acting - Be the Method!

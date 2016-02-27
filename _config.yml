@@ -16,3 +16,4 @@ github_username:  Heintzdm
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!-- more -->

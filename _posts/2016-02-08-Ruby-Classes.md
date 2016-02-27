@@ -3,6 +3,8 @@ layout: post
 title:  "Ruby Classes"
 date:   2016-02-08
 categories: ruby classes
+excerpt: "In order to understand the value of classes in Ruby, its important to
+understand why we would use a class."
 ---
 
 ### School's out For Summer
@@ -46,7 +48,7 @@ attr_accessor :frog_legs
 def enough_seats
 	if @seats >= @student_count
 	puts "You have enough seat(s)!"
-	else 
+	else
 	seat_req = @student_count - @seats
 	puts "You need #{seat_req} extra seats!"
 end

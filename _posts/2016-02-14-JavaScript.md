@@ -3,6 +3,8 @@ layout: post
 title:  "Ruby vs. JavaScript"
 date:   2016-02-14
 categories: ruby JavaScript
+excerpt: "For this discussion, I am going to talk about Ruby Hashes vs Javascript
+Objects."
 ---
 
 

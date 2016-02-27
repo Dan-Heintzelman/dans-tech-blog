@@ -3,6 +3,8 @@ layout: post
 title:  "Inline vs. Inline-Block"
 date:   2016-01-18
 categories: css
+excerpt: "There are many ways use the display property in CSS. However, there is
+much confusion about the difference between inline and inline-block:"
 ---
 
 ### Display = Block

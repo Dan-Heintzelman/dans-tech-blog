@@ -3,6 +3,7 @@ layout: post
 title:  "Morning arRays and breakfast Hashes"
 date:   2016-01-25
 categories: ruby
+excerpt: "When it comes to storing and organizing content in ruby, and in fact pretty much any coding language, Arrays and Hashes are the bread and butter."
 ---
 
 ## Arrays and Hashes - Breakfast of Champions
