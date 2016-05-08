@@ -23,13 +23,13 @@ ways.
 **First Way - Using Hash Separator.**
 
 {% highlight ruby %}
-hash = {  :fname => Dan, :lname => Heintzelman,  }
+hash = {  :fname => "Dan", :lname => "Heintzelman",  }
 {% endhighlight %}
 
 **Second Way - Using just the symbol to separate key/value.**
 
 {% highlight ruby %}
-hash = {  fname: Dan, lname: Heintzelman,  }
+hash = {  fname: "Dan", lname: "Heintzelman",  }
 {% endhighlight %}
 
 To access the value of my first name, I have to use hash[:fname]. The
@@ -41,7 +41,7 @@ Everything in Javascript is an object, so I think it is important to
 demonstrate this.
 
 {% highlight JavaScript %}
-var objectDan = {      fname: Dan,         lname: Heintzelman,       height: 6      }
+var objectDan = {      fname: "Dan",         lname: "Heintzelman",       height: 6      }
 {% endhighlight %};
 
 Notice how similar the object literal construction of both the hash in
@@ -56,8 +56,8 @@ function to the object objectDan.
 
 {% highlight javascript %}
 var objectDan = {      
-	fname: Dan,
-	lname: Heintzelman,       
+	fname: "Dan",
+	lname: "Heintzelman",       
 	height: 6,          
 	printName: function printName(){
 		console.log(this.fname + ' ' + this.lname)    
